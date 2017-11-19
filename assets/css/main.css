@@ -2957,7 +2957,7 @@
 		}
 
 		.wrapper.style5 {
-			background-color: #ffffff;
+			background-color: lightsteelblue;
 			color: #4E4852;
 		}
 
@@ -3135,6 +3135,7 @@
 		transition: opacity 0.5s ease;
 		opacity: 1;
 		padding-top: 3em;
+
 	}
 
 		#page-wrapper:before {
